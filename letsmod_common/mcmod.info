@@ -1,0 +1,18 @@
+
+[
+{
+"modid": "LetsMod",
+"name": "Let's Mod",
+"description": "",
+"version": "0.0.1",
+"credits": "",
+"logoFile": "",
+"mcversion": "",
+"url": "",
+"updateUrl": "",
+"authors": [ "Sqrlmonger", "Pahimar" ],
+"parent": "",
+"screenshots": [],
+"dependencies": []
+}
+]
